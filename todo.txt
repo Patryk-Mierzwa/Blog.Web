@@ -1,0 +1,6 @@
+w kazdym projecie referencje - patrz notatki
+dodac interfejsy (patrz BusinessLogic)
+"skomunkowac warstwy"
+serializacja do JSon w Widoku (Api). Biblioteka Newton Soft JSON
+baza danych mongo + dane
+teoria łancuch odpowiedzialnosci
